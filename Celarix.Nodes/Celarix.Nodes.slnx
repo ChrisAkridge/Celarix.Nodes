@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../Celarix.Nodes.Testing/Celarix.Nodes.Testing.csproj" />
+  <Project Path="../Celarix.Nodes.Wpf/Celarix.Nodes.Wpf.csproj" />
+  <Project Path="Celarix.Nodes.csproj" />
+</Solution>
